@@ -4,7 +4,7 @@
     "category": "Other",
     "documentationUrl": "https://docs.wso2.com/display/ESBCONNECTORS/GeoNames+Connector",
     "description": "The GeoNames connector allows you to access the GeoNames REST API through WSO2 ESB. GeoNames is a geographical database available and accessible through various web services, under a creative commons attribution.",
-    "status": "Unsupported",
+    "status": "Active",
     "labels": [
         "connector"
     ],
